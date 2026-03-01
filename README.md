@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to My Git! My Name is Natalie :)
+## Welcome to My Git profile! My Name is Natalie :)
 
 # 💫 About Me:
 🔨 I’m currently working on<br>A range of projects, from a full-stack e-commerce store to an interactive Valentine’s game built with Three.js. I’m also documenting my journey as a developer on Instagram.<br>🤝 I’m looking to collaborate on<br>Creative web applications, interactive 3D experiences, and beginner-friendly open source projects.<br>🫶 I’m looking for help with<br>Leveling up my architecture skills, clean backend patterns, and building scalable full-stack systems.<br>🌱 I’m currently learning<br>Cybersecurity, Computer Organization (the hardware side of computing), Three.js, and 3D modeling.<br>💬 Ask me about<br>Web development, building projects from scratch, documenting your CS journey, or staying motivated while learning.<br>⚡ Fun fact<br>I have a dog named Twinky 🐶, I love open-world games (Cyberpunk 2077 supremacy), and I’m on a mission to become a successful software engineer building things that feel immersive and meaningful.
